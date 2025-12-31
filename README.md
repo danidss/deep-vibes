@@ -3,25 +3,12 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 <h1 align="center">Deep Vibes</h1>
-  
+
+<p align="center">(Enjoy this beatifully complex jazz piano phrase)</p>
+
 https://github.com/user-attachments/assets/88bdeb23-df6a-4234-a65c-aa96f7d3946a
 
 </div>
-<!-- TABLE OF CONTENTS -->
----
-
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#contributors">Contributors</a></li>
-  </ol>
-</details>
-
----
-
-<br>
 
 <!-- ABOUT THE PROJECT -->
 ## :memo: About The Project
